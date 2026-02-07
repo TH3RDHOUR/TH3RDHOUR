@@ -6,7 +6,7 @@ I currently work as an EDI and ABAP developer for an oil company.
 I have been learning back end development in my free time.
 
 * 🌍  I'm based in Houston, TX
-* 🧠  I'm currently learning C++, Git
+* 🧠  I'm currently learning C++, Git, and anything that is fun
 * 👥  I'm looking to collaborate on Projects that will teach me more about anything lower level
 
 <p align="left">
