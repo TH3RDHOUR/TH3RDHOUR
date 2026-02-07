@@ -19,11 +19,3 @@ I have been learning back end development in my free time.
 <a href="https://www.github.com/TH3RDHOUR" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/TH3RDHOUR?logo=github&style=for-the-badge&color=84cc16&labelColor=1c1917" /></a>
 ### Badges
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/TH3RDHOUR"><img src="https://github-readme-stats.vercel.app/api?username=TH3RDHOUR&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=84cc16&icon_color=84cc16&bg_color=1c1917&hide_border=true&show_icons=true" alt="TH3RDHOUR's GitHub stats" /></a>
-
-<a href="http://www.github.com/TH3RDHOUR"><img src="https://github-readme-streak-stats.herokuapp.com/?user=TH3RDHOUR&stroke=84cc16&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=84cc16&currStreakLabel=0891b2&sideNums=84cc16&sideLabels=84cc16&dates=84cc16&hide_border=true" /></a>
-
-<a href="https://github.com/TH3RDHOUR" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TH3RDHOUR&langs_count=10&title_color=0891b2&text_color=84cc16&icon_color=84cc16&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
