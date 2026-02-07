@@ -1,7 +1,9 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Dalton
 ===============================================================================================================================
 
-I currently work as an EDI and ABAP developer for an oil company.
+I currently work as an EDI and ABAP developer in the Oil industry.
+
+I have a Bachelor's in Computer Science and love to learn programming.
 
 I have been learning back end development in my free time.
 
